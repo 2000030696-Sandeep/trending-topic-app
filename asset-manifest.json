@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trending-topic-app%20/static/css/main.9e654ad3.css",
+    "main.js": "/trending-topic-app%20/static/js/main.c73b778f.js",
+    "static/js/787.ec37a964.chunk.js": "/trending-topic-app%20/static/js/787.ec37a964.chunk.js",
+    "index.html": "/trending-topic-app%20/index.html",
+    "main.9e654ad3.css.map": "/trending-topic-app%20/static/css/main.9e654ad3.css.map",
+    "main.c73b778f.js.map": "/trending-topic-app%20/static/js/main.c73b778f.js.map",
+    "787.ec37a964.chunk.js.map": "/trending-topic-app%20/static/js/787.ec37a964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e654ad3.css",
+    "static/js/main.c73b778f.js"
+  ]
+}
